@@ -1,0 +1,14 @@
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\bin\Debug\net10.0\Week3Assinment.exe
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\bin\Debug\net10.0\Week3Assinment.deps.json
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\bin\Debug\net10.0\Week3Assinment.runtimeconfig.json
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\bin\Debug\net10.0\Week3Assinment.dll
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\bin\Debug\net10.0\Week3Assinment.pdb
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.AssemblyInfoInputs.cache
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.AssemblyInfo.cs
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.csproj.CoreCompileInputs.cache
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.dll
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\refint\Week3Assinment.dll
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.pdb
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\Week3Assinment.genruntimeconfig.cache
+C:\Users\minec\OneDrive\Desktop\WCTC\Net Database\Week3Assinment\Week3Assinment\obj\Debug\net10.0\ref\Week3Assinment.dll
